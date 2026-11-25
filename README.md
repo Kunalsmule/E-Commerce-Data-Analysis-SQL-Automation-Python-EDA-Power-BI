@@ -52,4 +52,4 @@ Evaluated category level order counts, mean values, and median values for reliab
 
 Developed interactive dashboards covering business KPIs, sales, customer behaviour, product categories, delivery performance, and customer satisfaction.
 
-Designed management-level reporting to support performance monitoring and business decisions.
+Designed management level reporting to support performance monitoring and business decisions.
