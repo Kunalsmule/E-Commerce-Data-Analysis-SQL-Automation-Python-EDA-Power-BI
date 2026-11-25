@@ -2,7 +2,7 @@
 
 Project Overview
 
-Developed an end to end e-commerce analytics solution to transform transactional data into actionable business insights. Leveraged SQL Server, Python, and Power BI to analyze sales, customer behaviour, product and seller performance, delivery operations, and customer satisfaction, supporting data-driven business decisions.
+Developed an end to end e-commerce analytics solution to transform transactional data into actionable business insights. Leveraged SQL Server, Python, and Power BI to analyze sales, customer behaviour, product and seller performance, delivery operations, and customer satisfaction.
 
 Technology Stack
 
